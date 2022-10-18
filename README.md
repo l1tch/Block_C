@@ -29,6 +29,6 @@ Block_C is a really young project of mine, still working on during free time, im
 - Chain integrity check
 - Proof of work 
 - Proof of stake
-- Mass-storage saving of data
+- Mass-storage save of data
 - Database integration
 - Chain configuration on start-up
